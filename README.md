@@ -5,7 +5,10 @@ To avoid forking the repo, create new Repository in your GitHub account and name
 
 Push the code to the newly created Github repo:
 
-- `git push --mirror https://github.com/exampleuser/ember-ui-code-challenge.git`
+- `git push --mirror https://github.com/fluxsaas/ember-ui-code-challenge.git`
+
+Implement the feature in a new feature branch, and send us the link to the Pull request.
+
 
 ## Requirements
 
@@ -36,7 +39,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-- `git clone --bare https://github.com/easyPEP/ember-ui-code-challenge.git`
+- `git clone https://github.com/easyPEP/ember-ui-code-challenge.git`
 - `cd ember-ui-code-challenge`
 - `npm install`
 
